@@ -1,0 +1,9 @@
+{
+  "entity_name": "order_id",
+  "description": "Stores customer order numbers for tracking",
+  "examples": [
+    "12345",
+    "ORD789",
+    "56789"
+  ]
+}
