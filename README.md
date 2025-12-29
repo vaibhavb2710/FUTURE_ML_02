@@ -49,37 +49,6 @@ The chatbot is designed to automatically answer common customer queries such as 
 
 ---
 
-## 📁 Project Structure
-customer-support-chatbot/
-│
-├── README.md
-│
-├── dialogflow/
-│ ├── intents/
-│ │ ├── greeting.json
-│ │ ├── order_status.json
-│ │ ├── refund_policy.json
-│ │ ├── contact_support.json
-│ │ └── fallback.json
-│ │
-│ └── entities/
-│ └── order_id.json
-│
-├── screenshots/
-│ ├── intents_list.png
-│ ├── greeting_test.png
-│ ├── order_status_test.png
-│ └── fallback_test.png
-│
-└── optional-deployment/
-├── streamlit_app.py
-└── telegram_bot.py
-
-yaml
-Copy code
-
----
-
 ## 🧪 Testing
 The chatbot was tested using Dialogflow’s built-in simulator by entering:
 - Greeting messages (Hi, Hello)
