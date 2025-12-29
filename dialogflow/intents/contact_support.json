@@ -1,0 +1,10 @@
+{
+  "intent_name": "Contact_Support",
+  "training_phrases": [
+    "contact support",
+    "talk to human",
+    "customer care",
+    "help desk"
+  ],
+  "response": "📧 You can contact our support team at support@example.com"
+}
