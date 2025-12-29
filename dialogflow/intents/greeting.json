@@ -1,0 +1,11 @@
+{
+  "intent_name": "Greeting",
+  "training_phrases": [
+    "hi",
+    "hello",
+    "hey",
+    "good morning",
+    "good evening"
+  ],
+  "response": "Hi 👋 How can I help you today?"
+}
