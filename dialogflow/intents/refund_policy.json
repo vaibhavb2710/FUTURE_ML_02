@@ -1,0 +1,10 @@
+{
+  "intent_name": "Refund_Policy",
+  "training_phrases": [
+    "how to get refund",
+    "refund policy",
+    "i want a refund",
+    "refund status"
+  ],
+  "response": "💰 Refunds are processed within 5–7 business days after approval."
+}
