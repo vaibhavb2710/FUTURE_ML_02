@@ -1,0 +1,10 @@
+{
+  "intent_name": "Order_Status",
+  "training_phrases": [
+    "where is my order",
+    "track my order",
+    "order status",
+    "check my order"
+  ],
+  "response": "📦 Your order is currently being processed. You will receive tracking details soon."
+}
